@@ -33,4 +33,4 @@ Então, dentro da pasta etc que está na raiz do seu módulo será necessário c
 
 Com isso feito corretamente, é possível liberar para qualquer nível de acesso permissão que possa visualizar e configurar seus campos customizados.
 
-<a href="https://www.linkedin.com/in/wellington-nogara-921a27165/" style="color: red;">Qualquer dúvida estou a disposição.</a>
+<strong>Qualquer dúvida estou a disposição - <a href="https://wellingtonnogara.com/" style="color: red;">Wellington Nogara</a>.</strong>
